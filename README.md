@@ -18,6 +18,6 @@ The system models various intelligent traffic devices that respond to a uniform 
 
 ## Code Structure
 ```python
-# Core architecture snippet
+# Core snippet 
 for dev in traffic_devices:
     dev.activate()
